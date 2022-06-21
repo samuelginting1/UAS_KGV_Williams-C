@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\ACER\Downloads\UAS-KGV\Circle.h(22,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Downloads\UAS-KGV\Circle.h(23,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Downloads\UAS-KGV\Octagon.h(23,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Downloads\UAS-KGV\Octagon.h(24,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ACER\Downloads\UAS-KGV\Main.cpp(23,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  MyFirstGLFWTutorial.vcxproj -> C:\Users\ACER\Downloads\UAS-KGV\x64\Debug\UAS KGV OOP.exe
